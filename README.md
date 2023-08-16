@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Yulia 👋
+
+Professional in Economy-Business Engineering with over 7 years experience in the Information Technology Domain as representative for the customer. Passionate about Data analysis and continuous learning.
+
+⚡ **Tools**: Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Dash, Folium, Json), SQL, Tableau, MS Office Suite (Word, Excel, PowerPoint), Salesforce
+
+📫 **How to reach me:** yuliya.ivanyuk86@gmail.com
+                    
+      
 
 <!--
 **Yulia-Ivaniuk/Yulia-Ivaniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
