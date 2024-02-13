@@ -1,6 +1,6 @@
 ### Hi there, I'm Yulia 👋
 
-Professional in Economy-Business Engineering with over 7 years experience in the Information Technology Domain as representative for the customer. Passionate about Data analysis and continuous learning.
+Results-oriented Data Analyst with a solid foundation in international IT Sales and Customer Success, now leveraging extensive training in data analysis to drive insights and decision-making.  Skilled in problem-solving, data analysis and data visualization and eager to translating complex data into actionable solutions and apply data-driven insights for success.
 
 ⚡ **Tools**: Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Dash, Folium, Json), SQL, Tableau, MS Office Suite (Word, Excel, PowerPoint), Salesforce
 
