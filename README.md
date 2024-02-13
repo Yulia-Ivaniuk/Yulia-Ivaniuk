@@ -1,8 +1,8 @@
 ### Hi there, I'm Yulia 👋
 
-Results-oriented Data Analyst with a solid foundation in international IT Sales and Customer Success, now leveraging extensive training in data analysis to drive insights and decision-making.  Skilled in problem-solving, data analysis and data visualization and eager to translating complex data into actionable solutions and apply data-driven insights for success.
+Results-oriented Data Analyst with a solid foundation in international IT Sales and Customer Success, now leveraging extensive training in data analysis to drive insights and decision-making.  Skilled in problem-solving, data analysis and data visualization and eager to translate complex data into actionable solutions and apply data-driven insights for success.
 
-⚡ **Tools**: Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Dash, Folium, Json), SQL, Tableau, MS Office Suite (Word, Excel, PowerPoint), Salesforce
+⚡ **Tools**: Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn, Plotly, Dash, Folium, Json), SQL, Tableau, MS Excel and PowerPoint, DataLens
 
 📫 **How to reach me:** yuliya.ivanyuk86@gmail.com
                     
